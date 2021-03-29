@@ -1,0 +1,79 @@
+run:
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+1
+
+Masukkan Data (angka): 12345
+Masukkan Data (angka): 6789
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+2
+
+Data Pertama dalam queue sudah dikeluarkan
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+5
+
+Data dalam Queue : [0=>6789]
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+3
+
+salah satuData Pertama dalam queue sudah dikeluarkan	:null
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+5
+
+Data dalam Queue : [0=>6789]
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+4
+
+Antrian bang mangkiri: 
+1. Tambah Data Queue
+2. Hapus 1 data dari Queue
+3. menghapus salah satu data dalam Queue
+4. Hapus semua data
+5. tampilkan data queue
+6. Keluar dari Program
+Pilih Menu(1-6)
+6
+
+Keluar dari program?(iya/tidak)iya
+BUILD SUCCESSFUL (total time: 26 seconds)
